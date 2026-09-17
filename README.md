@@ -1,0 +1,3 @@
+# Lawyer-case
+
+It is a comprehensive legal case management platform designed for law offices to manage cases, clients, hearings, deadlines, documents, laws, archived cases, and court-practice research in one place. The system provides a fast case creation workflow, client and case management, calendar-based hearing/deadline tracking, global search, laws and bylaws management, and an AI-powered court practice search for finding relevant legal decisions.
