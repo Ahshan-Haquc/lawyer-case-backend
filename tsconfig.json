@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",                          
+    "module": "CommonJS",                    
+    "rootDir": "./src",                        /* Where your TS files live */
+    "outDir": "./dist",                        /* Where compiled JS goes */
+    "strict": true,                            
+    "esModuleInterop": true,                  
+    "skipLibCheck": true,                     
+    "forceConsistentCasingInFileNames": true  
+  },
+  "include": ["src/**/*"]                      /* Tell compiler to only look inside src */
+}
